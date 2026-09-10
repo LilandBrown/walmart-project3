@@ -1,0 +1,10 @@
+# Downloaded Frida server cache (larger than GitHub allows).
+/frida-server
+
+# Captured requests and responses can contain private account data.
+/sent_requests_*.csv
+/sent_requests_*.jsonl
+
+# Captured checkout templates contain account and order identifiers.
+/checkout_template.json
+/placeorder_template.json
