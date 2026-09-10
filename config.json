@@ -1,0 +1,22 @@
+{
+  "adb_path": "C:\\Program Files\\BlueStacks_nxt\\HD-Adb.exe",
+  "frida_port_base": "27042",
+  "app_name": "Walmart Canada",
+  "pkg": "ca.walmart.ecommerceapp",
+  "delay_ms": "0",
+  "frida_server": "/data/local/tmp/frida-server",
+  "auto_start_frida": "true",
+  "schedule_oneway_ms": "14",
+  "schedule_arm_ms": "2000",
+  "schedule_warm_ms": "20000",
+  "ntp_server": "time.cloudflare.com",
+  "schedule_repeat_sec": "60",
+  "schedule_delay_ms": "0",
+  "schedule_nudge_ms": "0",
+  "schedule_peg": "12:00:00",
+  "oneway_samples": "4",
+  "add_to_cart_information_time": "5000",
+  "emulator_delay_ms": "0",
+  "max_instances": "6",
+  "sections_open": "{\"instances\": false, \"cart\": true, \"checkout\": true, \"log\": false}"
+}
